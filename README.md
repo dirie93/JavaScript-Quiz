@@ -39,5 +39,5 @@ Visit my [Github](https://github.com/dirie93/password-generator)
 
 <br>
 
-Visit my [Deployed App](https://dirie93.github.io/password-generator/)
+Visit my [Deployed App](https://dirie93.github.io/JavaScript-Quiz//)
 
