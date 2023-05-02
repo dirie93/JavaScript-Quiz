@@ -1,0 +1,138 @@
+/* Quiz Container */
+
+.quizBox {
+  display: none;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+  background-color: #e9edc9;
+}
+
+/* Header styles */
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+/* Welcome box styles */
+.welcomeBox {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.welcomeBox p {
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+.welcomeBox button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Quiz box styles */
+.quizBox {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  text-align: center;
+}
+
+#timer {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#question {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#choices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#choices button {
+  margin: 10px 0;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#choices button:hover {
+  background-color: #4caf50;
+  color: #fff;
+}
+
+#nextButton {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#nextButton:hover {
+  background-color: #3e8e41;
+}
+
+/* Results container styles */
+#resultContainer {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  text-align: center;
+}
+
+#score {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#leaderboard {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+#resultContainer button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#resultContainer button:hover {
+  background-color: #3e8e41;
+}
