@@ -14,6 +14,9 @@ SO THAT I can gauge my progress compared to my peers
 
 ## Application
 
+ ![image](https://user-images.githubusercontent.com/128429238/235791386-9818c001-2920-49d2-92d6-9cccf5ba7902.png)
+ 
+<br>
  
 ![image](https://user-images.githubusercontent.com/128429238/235789584-0a62ce76-00b3-4c22-a28c-c0177db09a8b.png)
 
