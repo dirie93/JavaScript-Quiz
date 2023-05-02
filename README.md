@@ -35,7 +35,7 @@ SO THAT I can gauge my progress compared to my peers
  
 ## Contact 
 
-Visit my [Github](https://github.com/dirie93/password-generator)
+Visit my [Github](https://github.com/dirie93/JavaScript-Quiz)
 
 <br>
 
